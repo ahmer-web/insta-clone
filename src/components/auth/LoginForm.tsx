@@ -79,7 +79,7 @@ const LoginForm: React.FC = () => {
         </div>
 
         {/* Demo accounts for testing */}
-        <div className="space-y-3 mb-6">
+        {/* <div className="space-y-3 mb-6">
           <p className="text-sm text-center text-gray-600 mb-2">Use a demo account:</p>
           <Button 
             type="button" 
@@ -104,7 +104,7 @@ const LoginForm: React.FC = () => {
             Login as Consumer
           </Button>
         </div>
-        
+         */}
         <div className="text-center">
           <p className="text-sm text-gray-600">
             Don't have an account?{' '}
